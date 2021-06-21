@@ -30,4 +30,3 @@ To speed up the search process, I have thought to multiprocessing; executing mul
 
 Note: The software is not 100% accurate; the products and the layout update continuously. 
 
-DUE TO COVID-19 THE WEBSITE HAS REMOVED THE "FIND IN STORE" LINK, THEREFORE THE SOFTWARE OBVIOUSLY WILL NOT WORK.
